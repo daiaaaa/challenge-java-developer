@@ -25,8 +25,8 @@
 	<contributors>
 		<contributor>
 			<!-- Preencha com seus próprios dados quando fizer o fork -->
-			<name>Nome do candidato</name>
-			<email>email@candidato.com</email>
+			<name>Daiana Vieira de Andrade</name>
+			<email>daianavieiradeandrade@gmail.com</email>
 		</contributor>
 	</contributors>
 
@@ -42,6 +42,15 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-validation</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+			<version>2.0.2</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
